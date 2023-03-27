@@ -1,0 +1,285 @@
+.email-container {
+  min-height: 100vh;
+}
+.email-email {
+  width: 1011px;
+  height: 1135px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  padding-right: 617px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.email-finalbluplain11 {
+  top: 35.39903259277344px;
+  left: 33px;
+  width: 133px;
+  height: 42px;
+  position: absolute;
+  border-color: transparent;
+}
+.email-text {
+  top: 87px;
+  left: 33px;
+  color: rgba(1, 26, 86, 1);
+  height: auto;
+  position: absolute;
+  font-size: 44px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.email-text02 {
+  top: 156px;
+  left: 33px;
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.email-text04 {
+  top: 189px;
+  left: 33px;
+  color: rgba(30, 30, 30, 1);
+  width: 508px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.email-text05 {
+  color: rgba(30, 30, 30, 1);
+}
+.email-text15 {
+  text-decoration: NONE;
+}
+.email-text16 {
+  color: rgba(0, 75, 253, 1);
+  text-decoration: UNDERLINE;
+}
+.email-seperator {
+  top: 846px;
+  left: 31px;
+  width: 511px;
+  height: 1px;
+  position: absolute;
+  border-color: transparent;
+}
+.email-seperator1 {
+  top: 959px;
+  left: 31px;
+  width: 511px;
+  height: 1px;
+  position: absolute;
+  border-color: transparent;
+}
+.email-text38 {
+  top: 994px;
+  left: 181px;
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Satoshi;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.email-group1 {
+  top: 880px;
+  left: 166px;
+  width: 241px;
+  height: 43.75px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.email-social {
+  top: 0px;
+  left: 0px;
+  width: 43.75px;
+  height: 43.75px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.email-ellipse8 {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+  border-color: transparent;
+}
+.email-facebook-f {
+  top: 9.625px;
+  left: 9.625px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.email-social1 {
+  top: 0px;
+  left: 65.75px;
+  width: 43.75px;
+  height: 43.75px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.email-ellipse81 {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+  border-color: transparent;
+}
+.email-twitter {
+  top: 9.625px;
+  left: 9.625px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.email-social2 {
+  top: 0px;
+  left: 131.5px;
+  width: 43.75px;
+  height: 43.75px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.email-ellipse82 {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+  border-color: transparent;
+}
+.email-instagram {
+  top: 9.625px;
+  left: 9.625px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.email-social3 {
+  top: 0px;
+  left: 197.25px;
+  width: 43.75px;
+  height: 43.75px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.email-ellipse83 {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+  border-color: transparent;
+}
+.email-medium1 {
+  top: 10px;
+  left: 10px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+}
