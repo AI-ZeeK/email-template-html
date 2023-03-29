@@ -34,7 +34,12 @@
   --dl-space-space-threeunits: 48px;
   --dl-space-space-oneandhalfunits: 24px;
 }
-zzz .button {
+body {
+  display: flex !important;
+  /* overflow-x: hidden; */
+  width: 100vw;
+}
+.button {
   color: var(--dl-color-gray-black);
   display: inline-block;
   padding: 0.5rem 1rem;
